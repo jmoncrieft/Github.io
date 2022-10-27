@@ -1,9 +1,14 @@
  body {
-    background-color: darkorange;
+    background-color: rgb(156, 202, 255);
     background-image: url("/images/basketball.jpg");
 }
 h1, h2, h3, figure, nav {
     text-align: center;
+}
+
+table {
+    display: block;
+    margin: 0 auto;
 }
 table, th, td, tr {
     border: 2px dotted red;
@@ -15,3 +20,10 @@ img {
     width: 200px;
 }
 
+video {
+    display: block;
+    margin: 0 auto;
+}
+#kobe-with-crown {
+    text-align: right;
+}
