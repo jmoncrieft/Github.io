@@ -6,10 +6,6 @@ h1, h2, h3, figure, nav {
     text-align: center;
 }
 
-table {
-    display: block;
-    margin: 0 auto;
-}
 table, th, td, tr {
     border: 2px dotted red;
     padding: 6px 8px 6px 8px;
