@@ -9,6 +9,8 @@ h1, h2, h3, figure, nav {
 table, th, td, tr {
     border: 2px dotted red;
     padding: 6px 8px 6px 8px;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 img {
